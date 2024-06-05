@@ -1,0 +1,1 @@
+ D:\\CodingStuff\\Projects\\Flutter\ Projects\\bad_zanko_pp\\.dart_tool\\flutter_build\\bfe4687d8436ec9f75d5b81153f4827f\\native_assets.yaml: 

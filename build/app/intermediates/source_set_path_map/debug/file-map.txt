@@ -1,0 +1,12 @@
+com.example.bad_zanko_pp.app-jetified-annotation-experimental-1.1.0-0 C:\Users\dihac\.gradle\caches\transforms-3\02315cc9f75263553d2042718fc375ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.bad_zanko_pp.app-jetified-window-1.0.0-beta04-1 C:\Users\dihac\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.example.bad_zanko_pp.app-jetified-window-java-1.0.0-beta04-2 C:\Users\dihac\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.bad_zanko_pp.app-core-1.6.0-3 C:\Users\dihac\.gradle\caches\transforms-3\d08c73bfb05384f2e52578171dbd141e\transformed\core-1.6.0\res
+com.example.bad_zanko_pp.app-debug-4 D:\CodingStuff\Projects\Flutter Projects\bad_zanko_pp\android\app\src\debug\res
+com.example.bad_zanko_pp.app-main-5 D:\CodingStuff\Projects\Flutter Projects\bad_zanko_pp\android\app\src\main\res
+com.example.bad_zanko_pp.app-pngs-6 D:\CodingStuff\Projects\Flutter Projects\bad_zanko_pp\build\app\generated\res\pngs\debug
+com.example.bad_zanko_pp.app-resValues-7 D:\CodingStuff\Projects\Flutter Projects\bad_zanko_pp\build\app\generated\res\resValues\debug
+com.example.bad_zanko_pp.app-rs-8 D:\CodingStuff\Projects\Flutter Projects\bad_zanko_pp\build\app\generated\res\rs\debug
+com.example.bad_zanko_pp.app-mergeDebugResources-9 D:\CodingStuff\Projects\Flutter Projects\bad_zanko_pp\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.bad_zanko_pp.app-mergeDebugResources-10 D:\CodingStuff\Projects\Flutter Projects\bad_zanko_pp\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.bad_zanko_pp.app-merged_res-11 D:\CodingStuff\Projects\Flutter Projects\bad_zanko_pp\build\app\intermediates\merged_res\debug
